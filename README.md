@@ -61,7 +61,7 @@ This is a full-stack e-commerce application built using the MERN stack (MongoDB,
 
 - Node.js
 - MongoDB installed and running locally on `mongodb://localhost:27017/`
-- npm or yarn
+- vite 
 
 ### Backend Setup
 
@@ -72,5 +72,5 @@ node server.js
 
 cd client
 npm install
-npm start
+npm run dev
 
