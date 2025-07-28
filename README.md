@@ -31,14 +31,23 @@ This is a full-stack e-commerce application built using the MERN stack (MongoDB,
 - **Authentication:** Local storage-based token check
 
 ---
+## 🛠️ Work in Progress
 
+The project is still under active development.  
+Here are some planned and pending features:
+
+- [ ] Admin login with JWT
+- [ ] Payment gateway integration (e.g., Razorpay)
+- [ ] Order management panel
+- [ ] User order history and invoices
+- [ ] Email notifications (e.g., order placed)
+- [ ] Product filtering and search
+- [ ] Improved UI/UX with animations
 ---
 
 ## 📸 Screenshots
 
 ### HomePage
-
-
 <img width="1366" height="1615" alt="screencapture-localhost-5173-2025-07-28-18_22_52" src="https://github.com/user-attachments/assets/b368a416-312d-4901-b35b-3cb2f62caa5e" />
 
 ### AdminPage
