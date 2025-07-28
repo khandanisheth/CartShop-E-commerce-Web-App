@@ -1,0 +1,39 @@
+/* 🔵 Drawer */
+.auth-drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 350px;
+  height: 100%;
+  background-color: #fff;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
+  z-index: 1051;
+  transition: transform 0.3s ease-in-out;
+  transform: translateX(100%);
+}
+
+.auth-drawer.open {
+  transform: translateX(0);
+}
+
+/* 🔴 Backdrop */
+.auth-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 1050;
+}
+
+/* ❌ Close button */
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 24px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
