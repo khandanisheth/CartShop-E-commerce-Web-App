@@ -1,0 +1,6 @@
+/* AdminDashboard.css me add karo */
+.hover-zoom:hover {
+  transform: scale(1.03);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
