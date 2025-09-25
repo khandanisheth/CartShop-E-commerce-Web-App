@@ -1,7 +1,8 @@
 # 🛒 CartShop - MERN Stack E-Commerce App
+CartShop is a full-stack **e-commerce website** built with the MERN stack (MongoDB, Express.js, React.js, Node.js).  
+It works similar to Flipkart/Amazon where users can browse categories, view product details, add items to their cart or wishlist, and place orders.  
 
-CartShop is a **full-stack e-commerce web application** built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
-It includes **user and admin dashboards**, allowing customers to browse and purchase products, and admins to manage product categories and product details.
+The project also includes an **admin panel**, where admins can manage product categories and product details (add, edit, delete, upload images).
 
 ---
 
@@ -35,8 +36,7 @@ It includes **user and admin dashboards**, allowing customers to browse and purc
 - [ ] Payment gateway integration (Razorpay/Stripe)  
 - [ ] Order management panel  
 - [ ] User order history & invoices  
-- [ ] Email notifications (order confirmation, etc.)  
-- [ ] Product filtering and search  
+- [ ] Email notifications (order confirmation, etc.)    
 - [ ] Enhanced UI/UX with animations  
 
 ---
