@@ -72,7 +72,7 @@ The project also includes an **admin panel**, where admins can manage product ca
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/cartshop.git
+git clone [https://github.com/your-username/cartshop.git](https://github.com/khandanisheth/CartShop-E-commerce-Web-App/tree/main)
 cd cartshop
 
 Backend Setup
