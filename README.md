@@ -61,6 +61,10 @@ The project also includes an **admin panel**, where admins can manage product ca
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/585c73e3-29f8-4d2b-b998-0b33fee27fa4" />
 
 
+📂 Project Structure
+<img width="363" height="594" alt="image" src="https://github.com/user-attachments/assets/5d08c55a-1568-4f38-b920-9bddcd8de030" />
+
+
 ---
 
 ## ⚙️ Installation & Setup
@@ -84,9 +88,6 @@ Frontend Setup
 cd client
 npm install
 npm run dev
-
-📂 Project Structure
-<img width="363" height="594" alt="image" src="https://github.com/user-attachments/assets/5d08c55a-1568-4f38-b920-9bddcd8de030" />
 
 
 🙌 Contributing
