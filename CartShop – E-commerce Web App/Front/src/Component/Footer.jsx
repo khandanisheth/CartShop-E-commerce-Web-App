@@ -54,7 +54,7 @@ export default function Footer() {
               <i className="bi bi-envelope-fill me-2"></i> support@cartshop.com
             </p>
             <p className="text-light mb-1">
-              <i className="bi bi-telephone-fill me-2"></i> +91 98765 43210
+              <i className="bi bi-telephone-fill me-2"></i> +91 8920424789
             </p>
             <p className="text-light">
               <i className="bi bi-geo-alt-fill me-2"></i> Jaipur, Rajasthan, India
@@ -75,10 +75,10 @@ export default function Footer() {
             </div>
             <h6 className="text-light mb-2">Follow Us</h6>
             <div className="d-flex gap-3">
-              <a href="#" className="text-light fs-5"><i className="bi bi-facebook"></i></a>
+              <a href="https://www.facebook.com/mhmd.dansh.246032/" className="text-light fs-5"><i className="bi bi-facebook"></i></a>
               <a href="#" className="text-light fs-5"><i className="bi bi-instagram"></i></a>
-              <a href="#" className="text-light fs-5"><i className="bi bi-twitter"></i></a>
-              <a href="#" className="text-light fs-5"><i className="bi bi-linkedin"></i></a>
+              <a href="https://github.com/khandanisheth" className="text-light fs-5"><i className="bi bi-twitter"></i></a>
+              <a href="https://www.linkedin.com/in/mohammad-danish-717208264/" className="text-light fs-5"><i className="bi bi-linkedin"></i></a>
             </div>
           </div>
         </div>
@@ -203,3 +203,4 @@ export default function Footer() {
 //     </footer>
 //   );
 // }
+
