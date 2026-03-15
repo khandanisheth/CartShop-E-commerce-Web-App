@@ -35,6 +35,11 @@ export default function Terms() {
                     Continued use of the site after any modifications indicates acceptance of those changes.
                 </p>
 
+                 <h5 className="mt-4"><i className="bi bi-calendar2-event me-2 text-danger"></i>Code Owner</h5>
+                <p>
+                    <a href="https://github.com/khandanisheth">Mohammad Danish</a>
+                </p>
+
                 <div className="mt-5 text-end">
                     <Link className="btn btn-outline-primary" to="/">
                         <i className="bi bi-arrow-left-circle me-2"></i>Back to Home
